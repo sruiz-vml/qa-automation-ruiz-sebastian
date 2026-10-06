@@ -1,0 +1,26 @@
+{
+  "name": "qa-automation-capacitacion",
+  "version": "1.0.0",
+  "description": "Hola soy Sebastian y esto es un Readme para mi GitHub. Me gusta la cerveza y todo lo medieval",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sruiz-vml/ruiz-sebastian-vml.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sruiz-vml/ruiz-sebastian-vml/issues"
+  },
+  "homepage": "https://github.com/sruiz-vml/ruiz-sebastian-vml#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
